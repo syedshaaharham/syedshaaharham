@@ -17,7 +17,7 @@ I am passionate about learning the art of cloud architecture, improving infrastr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed_Shah_Arham-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/syedshaharham)
 [![GitHub](https://img.shields.io/badge/GitHub-syedshaharham--2006-181717?style=for-the-badge&logo=github)](https://github.com/syedshaharham-2006)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_on_S3-FF9900?style=for-the-badge&logo=amazonaws)](https://lnkd.in/dpgwCBbv)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_on_S3-FF9900?style=for-the-badge&logo=amazonaws)](https://s3-for-portfolio.s3.ap-south-1.amazonaws.com/index.html)
 
 </div>
 
