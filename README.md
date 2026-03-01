@@ -1,27 +1,3 @@
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   $ whoami                                                    ║
-║   > Syed Shah Arham — Aspiring Cloud & Security Engineer      ║
-║                                                               ║
-║   $ cat skills.json                                           ║
-║   > AWS | Python | Linux | Data & Cloud Systems               ║
-║                                                               ║
-║   $ echo $STATUS                                              ║
-║   > Open to Work ✓                                            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed_Shah_Arham-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/syedshaharham)
-[![GitHub](https://img.shields.io/badge/GitHub-syedshaharham--2006-181717?style=for-the-badge&logo=github)](https://github.com/syedshaharham-2006)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_on_S3-FF9900?style=for-the-badge&logo=amazonaws)](https://lnkd.in/dpgwCBbv)
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
@@ -33,6 +9,17 @@ I am passionate about learning the art of cloud architecture, improving infrastr
 📍 Karachi, Pakistan
 🔐  Focus: Cloud Engineering → DevOps → Cloud Security
 ```
+
+---
+
+<div align="center">
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed_Shah_Arham-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/syedshaharham)
+[![GitHub](https://img.shields.io/badge/GitHub-syedshaharham--2006-181717?style=for-the-badge&logo=github)](https://github.com/syedshaharham-2006)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_on_S3-FF9900?style=for-the-badge&logo=amazonaws)](https://lnkd.in/dpgwCBbv)
+
+</div>
 
 ---
 
