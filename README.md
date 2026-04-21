@@ -57,7 +57,8 @@ I am passionate about learning the art of cloud architecture, improving infrastr
 > **Production-grade multi-AZ network infrastructure with defense-in-depth**
 
 Designed and provisioned a modular, multi-AZ VPC using Terraform with a three-tier subnet layout (public, private, data), an Application Load Balancer, NAT Gateway, RDS, VPC Endpoints for private AWS service access, and VPC Flow Logs for full network visibility.
-`
+
+```
 Internet Gateway
       │
 Public Subnets (ALB, NAT GW)
@@ -67,7 +68,7 @@ Private Subnets (App Layer)
 Data Subnets (RDS, VPC Endpoints)
       │
 VPC Flow Logs → CloudWatch
-`
+```
 
 **Stack:** Terraform • VPC • ALB • NAT Gateway • RDS • VPC Endpoints • VPC Flow Logs • Multi-AZ
 
