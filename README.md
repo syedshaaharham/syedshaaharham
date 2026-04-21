@@ -7,7 +7,7 @@ I am passionate about learning the art of cloud architecture, improving infrastr
 
 ```
 📍 Karachi, Pakistan
-🔐  Focus: Cloud Engineering → DevOps → Cloud Security
+🔐  Focus: Cloud Engineering → Cloud Security
 ```
 
 ---
