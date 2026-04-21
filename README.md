@@ -57,15 +57,17 @@ I am passionate about learning the art of cloud architecture, improving infrastr
 > **Production-grade multi-AZ network infrastructure with defense-in-depth**
 
 Designed and provisioned a modular, multi-AZ VPC using Terraform with a three-tier subnet layout (public, private, data), an Application Load Balancer, NAT Gateway, RDS, VPC Endpoints for private AWS service access, and VPC Flow Logs for full network visibility.
+`
 Internet Gateway
-│
+      │
 Public Subnets (ALB, NAT GW)
-│
+      │ 
 Private Subnets (App Layer)
-│
+      │
 Data Subnets (RDS, VPC Endpoints)
-│
+      │
 VPC Flow Logs → CloudWatch
+`
 
 **Stack:** Terraform • VPC • ALB • NAT Gateway • RDS • VPC Endpoints • VPC Flow Logs • Multi-AZ
 
@@ -75,11 +77,10 @@ VPC Flow Logs → CloudWatch
 > **Self-healing infrastructure demo**
 
 Deployed a fault-tolerant web app across 2 AZs behind ALB + ASG. Terminated instances mid-traffic to demonstrate automatic recovery — the app never went down.
-ALB
-├── AZ-1 (EC2 instance)
-└── AZ-2 (EC2 instance)  ← terminated mid-traffic, ASG self-healed
 
 **Stack:** EC2 • ALB • Auto Scaling Group • Multi-AZ • CloudWatch
+
+---
 
 ### 🏆 Real-Time Multi-Source Data Pipeline — Hackathon
 > **End-to-end automated pipeline integrating 3 live financial APIs**
@@ -132,14 +133,6 @@ EventBridge → Lambda → S3 → SQS → Lambda → DynamoDB
 
 ---
 
-### 🌐 Multi-AZ High Availability Web App
-> **Self-healing infrastructure demo**
-
-Deployed a fault-tolerant web app across 2 AZs behind ALB + ASG. Terminated instances mid-traffic to demonstrate automatic recovery — the app never went down.
-
-**Stack:** EC2 • ALB • Auto Scaling Group • Multi-AZ • CloudWatch
-
----
 
 ### 🏗️ Lake-to-Warehouse ETL Pipeline
 > **S3 → Glue → Athena → Redshift**
