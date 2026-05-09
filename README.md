@@ -47,99 +47,24 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,docker,terraform,kubernetes&theme=dark)](https://skillicons.dev)
+### **AWS Services**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/Storage/SimpleStorageService.png" alt="S3" width="40" height="40" title="Amazon S3"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/Compute/Lambda.png" alt="Lambda" width="40" height="40" title="AWS Lambda"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/Compute/EC2.png" alt="EC2" width="40" height="40" title="EC2 & Auto Scaling"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" alt="IAM" width="40" height="40" title="IAM & Security"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" alt="VPC" width="40" height="40" title="VPC & Networking"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/ApplicationIntegration/SimpleQueueService.png" alt="SQS" width="40" height="40" title="SQS & SNS"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/ApplicationIntegration/EventBridge.png" alt="EventBridge" width="40" height="40" title="EventBridge"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/Database/DynamoDB.png" alt="DynamoDB" width="40" height="40" title="DynamoDB"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/ManagementGovernance/CloudWatch.png" alt="CloudWatch" width="40" height="40" title="CloudWatch"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/ManagementGovernance/CloudFormation.png" alt="CloudFormation" width="40" height="40" title="CloudFormation"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/Containers/ElasticContainerService.png" alt="ECS" width="40" height="40" title="ECS & Containers"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 Secure VPC Architecture — Terraform
-> **Production-grade multi-AZ network infrastructure with defense-in-depth**
-
-Modular multi-AZ VPC with three-tier subnet layout (public, private, data), ALB, NAT Gateway, RDS, VPC Endpoints for private AWS service access, and VPC Flow Logs.
-
-```
-Internet Gateway
-      │
-Public Subnets (ALB, NAT GW)
-      │
-Private Subnets (App Layer)
-      │
-Data Subnets (RDS, VPC Endpoints)
-      │
-VPC Flow Logs → CloudWatch
-```
-
-**Stack:** Terraform • VPC • ALB • NAT Gateway • RDS • VPC Endpoints • Multi-AZ
-
----
-
-### 🌐 Multi-AZ High Availability Web App
-> **Self-healing infrastructure demo**
-
-Fault-tolerant web app across 2 AZs behind ALB + ASG. Instances terminated mid-traffic to verify zero-downtime auto-recovery.
-
-**Stack:** EC2 • ALB • Auto Scaling Group • Multi-AZ • CloudWatch
-
----
-
-### 🏆 Real-Time Multi-Source Data Pipeline — Hackathon
-> **End-to-end automated pipeline integrating 3 live financial APIs**
-
-```
-CoinMarketCap ──┐
-OpenExchangeRates ──┤──► S3 → SNS → SQS → Lambda → Glue (PySpark) → Snowflake
-Yahoo Finance ──┘
-                          EventBridge (Scheduled Triggers)
-```
-
-**Stack:** Python • Lambda • S3 • SNS • SQS • Glue • PySpark • Snowflake • EventBridge
-
----
-
-### 📈 S&P 500 Real-Time Intraday Pipeline
-> **Dockerized Airflow orchestration on EC2**
-
-Fully automated ETL pulling live S&P 500 market data, transforming with pandas, and loading to S3 and Snowflake.
-
-```
-yfinance API → EC2 (Docker + Airflow) → Transform → S3 + Snowflake
-```
-
-**Stack:** Python • Apache Airflow • Docker • EC2 • S3 • Snowflake • pandas
-
----
-
-### ⚡ Serverless Weather Forecasting Pipeline
-> **EventBridge → Lambda → Snowpipe → Looker Studio**
-
-Daily pipeline fetching Open-Meteo weather data, storing to S3, auto-ingesting via Snowpipe, and visualizing on Looker Studio.
-
-**Stack:** Lambda • EventBridge • S3 • SQS • Snowflake Snowpipe • Looker Studio
-
----
-
-### 📊 AWS Stock Data Pipeline
-> **Serverless event-driven ETL**
-
-Fully serverless pipeline generating and processing synthetic OHLCV stock data for 50 symbols.
-
-```
-EventBridge → Lambda → S3 → SQS → Lambda → DynamoDB
-```
-
-**Stack:** Lambda • EventBridge • S3 • SQS • DynamoDB
-
----
-
-### 🏗️ Lake-to-Warehouse ETL Pipeline
-> **S3 → Glue → Athena → Redshift**
-
-Enterprise-style pipeline with Glue Crawler schema discovery, serverless querying with Athena, and warehousing in Redshift.
-
-**Stack:** S3 • Glue • Athena • Redshift • Python • PySpark
-
----
 
 ## 📊 GitHub Stats
 
