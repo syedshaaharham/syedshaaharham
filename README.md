@@ -31,15 +31,9 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
 [![My Skills](https://skillicons.dev/icons?i=git,jenkins,github,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
 
-do we have logos of git jenkins and github logo?
 
 ### **Languages & Tools**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,linux,mysql,git&theme=dark)](https://skillicons.dev)
 
 ---
 
