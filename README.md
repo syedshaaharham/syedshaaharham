@@ -10,14 +10,13 @@
 
 ## 🚀 About Me
 
-I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on experience building and automating cloud infrastructure and data pipelines. Currently studying **BS Cybersecurity at MAJU** and actively building toward a career in **Cloud Security Engineering**.
+I'm a **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on experience building and automating cloud infrastructure and data pipelines. Currently studying **BS Cybersecurity at Dawood UET** and actively building toward a career in **Cloud Security Engineering**.
 
-- 🔭 Currently studying **AWS Certified Developer Associate (DVA-C02)**
 - 🛠️ Building production-grade projects with **AWS, Terraform, Python, and Snowflake**
 - 🔐 Long-term focus: **Cloud Security Engineering**
 - 📦 20+ public repositories on GitHub
 - 💬 Ask me about **AWS, Serverless, IaC, and Data Pipelines**
-- 📍 Based in Karachi — open to **cloud internships**
+- 📍 Based in Karachi — open to **CLoud / Devops internships**
 
 ---
 
