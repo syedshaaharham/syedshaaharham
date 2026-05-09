@@ -48,19 +48,18 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
 </p>
 
 ### **AWS Services**
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/Storage/SimpleStorageService.png" alt="S3" width="40" height="40" title="Amazon S3"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/Compute/Lambda.png" alt="Lambda" width="40" height="40" title="AWS Lambda"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/Compute/EC2.png" alt="EC2" width="40" height="40" title="EC2 & Auto Scaling"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" alt="IAM" width="40" height="40" title="IAM & Security"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" alt="VPC" width="40" height="40" title="VPC & Networking"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/ApplicationIntegration/SimpleQueueService.png" alt="SQS" width="40" height="40" title="SQS & SNS"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/ApplicationIntegration/EventBridge.png" alt="EventBridge" width="40" height="40" title="EventBridge"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/Database/DynamoDB.png" alt="DynamoDB" width="40" height="40" title="DynamoDB"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/ManagementGovernance/CloudWatch.png" alt="CloudWatch" width="40" height="40" title="CloudWatch"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/ManagementGovernance/CloudFormation.png" alt="CloudFormation" width="40" height="40" title="CloudFormation"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/Containers/ElasticContainerService.png" alt="ECS" width="40" height="40" title="ECS & Containers"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda"/>
+  <img src="https://img.shields.io/badge/EC2%20%26%20Auto%20Scaling-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2"/>
+  <img src="https://img.shields.io/badge/IAM%20%26%20Security-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" alt="IAM"/>
+  <img src="https://img.shields.io/badge/VPC%20%26%20Networking-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="VPC"/>
+  <img src="https://img.shields.io/badge/SQS%20%26%20SNS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" alt="SQS SNS"/>
+  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="EventBridge"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFormation"/>
+  <img src="https://img.shields.io/badge/ECS%20%26%20Containers-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ECS"/>
 </p>
 
 ---
