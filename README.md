@@ -52,16 +52,17 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
 <p align="left">
   <img src="https://img.shields.io/badge/Amazon_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2_&_Auto_Scaling-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAM_&_Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPC_&_Networking-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQS_&_SNS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2_%26_Auto_Scaling-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM_%26_Security-FF9900?style=for-the-badge&logo=amazoniam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPC_%26_Networking-FF9900?style=for-the-badge&logo=amazonvpc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQS_%26_SNS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge&logo=amazoneventbridge&logoColor=white"/>
   <img src="https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ECS_&_Containers-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazoncloudformation&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ECS_%26_Containers-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
 </p>
+
 ---
 
 ## 🚀 Featured Projects
