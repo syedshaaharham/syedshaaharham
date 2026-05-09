@@ -2,7 +2,7 @@
 
 # Hey, I'm Arham 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Cloud+Engineer;AWS+%7C+Terraform+%7C+Serverless;BS+Cybersecurity+%40+MAJU;Cloud+Engineering+%E2%86%92+Cloud+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Cloud+Engineer;AWS+%7C+Terraform+%7C+Serverless;BS+Cybersecurity+%40+DUET;Cloud+Engineering+%E2%86%92+Cloud+Security)](https://git.io/typing-svg)
 
 </div>
 
