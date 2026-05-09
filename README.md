@@ -37,19 +37,20 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
 
 ### **AWS Services**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonS3.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSLambda.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonEC2.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSIAM.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonVPC.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonSQS.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonSNS.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonEventBridge.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonDynamoDB.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonCloudWatch.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSCloudFormation.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonECS.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Storage/SimpleStorageService.png" width="40" height="40" alt="S3"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Compute/Lambda.png" width="40" height="40" alt="Lambda"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Compute/EC2.png" width="40" height="40" alt="EC2"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" width="40" height="40" alt="IAM"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" width="40" height="40" alt="VPC"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ApplicationIntegration/SimpleQueueService.png" width="40" height="40" alt="SQS"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ApplicationIntegration/SimpleNotificationService.png" width="40" height="40" alt="SNS"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ApplicationIntegration/EventBridge.png" width="40" height="40" alt="EventBridge"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Database/DynamoDB.png" width="40" height="40" alt="DynamoDB"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ManagementGovernance/CloudWatch.png" width="40" height="40" alt="CloudWatch"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ManagementGovernance/CloudFormation.png" width="40" height="40" alt="CloudFormation"/>
+  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Containers/ElasticContainerService.png" width="40" height="40" alt="ECS"/>
 </p>
+
 ---
 
 
