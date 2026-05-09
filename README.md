@@ -35,6 +35,24 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
 ### **Languages & Tools**
 [![My Skills](https://skillicons.dev/icons?i=python,linux,mysql,git&theme=dark)](https://skillicons.dev)
 
+### **AWS Services**
+
+### **AWS Services**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonS3.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSLambda.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonEC2.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSIAM.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonVPC.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonSQS.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonSNS.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonEventBridge.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonDynamoDB.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonCloudWatch.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSCloudFormation.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonECS.svg" width="40" height="40"/>
+</p>
+
 ---
 
 
