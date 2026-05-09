@@ -36,21 +36,19 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
 [![My Skills](https://skillicons.dev/icons?i=python,linux,mysql,git&theme=dark)](https://skillicons.dev)
 
 ### **AWS Services**
-
-### **AWS Services**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonS3.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSLambda.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonEC2.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSIAM.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonVPC.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonSQS.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonSNS.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonEventBridge.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonDynamoDB.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonCloudWatch.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSCloudFormation.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AmazonECS.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons/Arch_Storage/Arch_64/Arch_Amazon-Simple-Storage-Service_64.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons/Arch_Compute/Arch_64/Arch_AWS-Lambda_64.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons/Arch_Compute/Arch_64/Arch_Amazon-EC2_64.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons/Arch_Security-Identity-Compliance/Arch_64/Arch_AWS-Identity-and-Access-Management_64.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons/Arch_Networking-Content-Delivery/Arch_64/Arch_Amazon-Virtual-Private-Cloud_64.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons/Arch_App-Integration/Arch_64/Arch_Amazon-Simple-Queue-Service_64.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons/Arch_App-Integration/Arch_64/Arch_Amazon-Simple-Notification-Service_64.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons/Arch_App-Integration/Arch_64/Arch_Amazon-EventBridge_64.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons/Arch_Database/Arch_64/Arch_Amazon-DynamoDB_64.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons/Arch_Management-Governance/Arch_64/Arch_Amazon-CloudWatch_64.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons/Arch_Management-Governance/Arch_64/Arch_AWS-CloudFormation_64.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons/Arch_Containers/Arch_64/Arch_Amazon-Elastic-Container-Service_64.svg" width="40" height="40"/>
 </p>
 
 ---
