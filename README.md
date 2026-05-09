@@ -28,7 +28,7 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
 
 ### **CI/CD & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=git,jenkins,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,jenkins,github,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
 
 do we have logos of git jenkins and github logo?
