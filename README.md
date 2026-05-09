@@ -24,13 +24,7 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
 ## 🛠️ Tech Stack
 
 ### **Cloud & Infrastructure**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,snowflake&theme=dark)](https://skillicons.dev)
 
 ### **CI/CD & DevOps**
 <p align="left">
@@ -45,22 +39,6 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="sql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
-### **AWS Services**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/icons/Architecture-Service-Icons_01312023/Arch_Security-Identity-Compliance/64/Arch_AWS-Identity-Access-Management_64.svg" alt="IAM" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/icons/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service_64.svg" alt="S3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/icons/Architecture-Service-Icons_01312023/Arch_Compute/64/Arch_AWS-Lambda_64.svg" alt="Lambda" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/icons/Architecture-Service-Icons_01312023/Arch_Compute/64/Arch_Amazon-EC2_64.svg" alt="EC2" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/icons/Architecture-Service-Icons_01312023/Arch_Networking-Content-Delivery/64/Arch_Amazon-Virtual-Private-Cloud_64.svg" alt="VPC" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/icons/Architecture-Service-Icons_01312023/Arch_App-Integration/64/Arch_Amazon-Simple-Queue-Service_64.svg" alt="SQS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/icons/Architecture-Service-Icons_01312023/Arch_App-Integration/64/Arch_Amazon-Simple-Notification-Service_64.svg" alt="SNS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/icons/Architecture-Service-Icons_01312023/Arch_App-Integration/64/Arch_Amazon-EventBridge_64.svg" alt="EventBridge" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/icons/Architecture-Service-Icons_01312023/Arch_Database/64/Arch_Amazon-DynamoDB_64.svg" alt="DynamoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/icons/Architecture-Service-Icons_01312023/Arch_Management-Governance/64/Arch_Amazon-CloudWatch_64.svg" alt="CloudWatch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/icons/Architecture-Service-Icons_01312023/Arch_Management-Governance/64/Arch_AWS-CloudFormation_64.svg" alt="CloudFormation" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sashee/aws-svg-icons/main/icons/Architecture-Service-Icons_01312023/Arch_Containers/64/Arch_Amazon-Elastic-Container-Service_64.svg" alt="ECS" width="40" height="40"/>
 </p>
 
 ---
