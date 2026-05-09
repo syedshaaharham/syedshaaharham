@@ -72,36 +72,6 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
 
 ---
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedshaaharham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedshaaharham&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedshaaharham&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedshaaharham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedshaaharham&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -116,7 +86,6 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
 
 <div align="center">
 
-### 💡 "There's a difference between using AWS and understanding AWS. I'm closing that gap."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syedshaaharham&color=2E9EF7&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/syedshaaharham?label=Follow&style=social)](https://github.com/syedshaaharham)
