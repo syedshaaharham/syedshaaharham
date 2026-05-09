@@ -1,32 +1,55 @@
-
-## 👨‍💻 About Me
-
-An aspiring Cloud Engineer with hands-on experience in building and automating cloud infrastructure and deployment pipelines. I have worked with technologies such as Python, AWS, Docker, Airflow, and Snowflake to develop scalable and efficient cloud-based solutions.
-
-I am passionate about learning the art of cloud architecture, improving infrastructure performance, and keeping up with the latest advancements in cloud technology. I enjoy working in collaborative settings, embrace complex engineering challenges, and am committed to growing my skills through meaningful, real-world projects.
-
-```
-📍 Karachi, Pakistan
-🔐  Focus: Cloud Engineering → Cloud Security
-```
-
----
-
 <div align="center">
 
+# Hey, I'm Arham 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed_Shah_Arham-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/syedshaharham)
-[![GitHub](https://img.shields.io/badge/GitHub-syedshaharham--2006-181717?style=for-the-badge&logo=github)](https://github.com/syedshaaharham)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_on_Vercel-FF9900?style=for-the-badge&logo=vercel&logoColor=white)](https://syedshaharham.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Cloud+Engineer;AWS+%7C+Terraform+%7C+Serverless;BS+Cybersecurity+%40+MAJU;Cloud+Engineering+%E2%86%92+Cloud+Security)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 🛠️ Technical Proficiency
+## 🚀 About Me
 
-**Cloud Infrastructure**
+I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on experience building and automating cloud infrastructure and data pipelines. Currently studying **BS Cybersecurity at MAJU** and actively building toward a career in **Cloud Security Engineering**.
 
-| Skill | Proficiency |
+- 🔭 Currently studying **AWS Certified Developer Associate (DVA-C02)**
+- 🛠️ Building production-grade projects with **AWS, Terraform, Python, and Snowflake**
+- 🔐 Long-term focus: **Cloud Security Engineering**
+- 📦 20+ public repositories on GitHub
+- 💬 Ask me about **AWS, Serverless, IaC, and Data Pipelines**
+- 📍 Based in Karachi — open to **cloud internships**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Cloud & Infrastructure**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
+</p>
+
+### **CI/CD & DevOps**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/>
+</p>
+
+### **Languages & Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="sql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+### **AWS Services**
+
+| Service | Proficiency |
 |---|---|
 | Amazon S3 | `████████████████░░░░` Advanced |
 | AWS Lambda | `████████████████░░░░` Advanced |
@@ -40,15 +63,6 @@ I am passionate about learning the art of cloud architecture, improving infrastr
 | CloudFormation | `█████████░░░░░░░░░░░` Developing |
 | ECS & Containers | `█████████░░░░░░░░░░░` Developing |
 
-**Languages & Tools**
-
-| Skill | Proficiency |
-|---|---|
-| Python | `█████████████░░░░░░░` Intermediate |
-| SQL | `█████████████░░░░░░░` Intermediate |
-| Linux & Bash | `████████████░░░░░░░░` Intermediate |
-| Git & GitHub | `████████████░░░░░░░░` Intermediate |
-
 ---
 
 ## 🚀 Featured Projects
@@ -56,13 +70,13 @@ I am passionate about learning the art of cloud architecture, improving infrastr
 ### 🔐 Secure VPC Architecture — Terraform
 > **Production-grade multi-AZ network infrastructure with defense-in-depth**
 
-Designed and provisioned a modular, multi-AZ VPC using Terraform with a three-tier subnet layout (public, private, data), an Application Load Balancer, NAT Gateway, RDS, VPC Endpoints for private AWS service access, and VPC Flow Logs for full network visibility.
+Modular multi-AZ VPC with three-tier subnet layout (public, private, data), ALB, NAT Gateway, RDS, VPC Endpoints for private AWS service access, and VPC Flow Logs.
 
 ```
 Internet Gateway
       │
 Public Subnets (ALB, NAT GW)
-      │ 
+      │
 Private Subnets (App Layer)
       │
 Data Subnets (RDS, VPC Endpoints)
@@ -70,14 +84,14 @@ Data Subnets (RDS, VPC Endpoints)
 VPC Flow Logs → CloudWatch
 ```
 
-**Stack:** Terraform • VPC • ALB • NAT Gateway • RDS • VPC Endpoints • VPC Flow Logs • Multi-AZ
+**Stack:** Terraform • VPC • ALB • NAT Gateway • RDS • VPC Endpoints • Multi-AZ
 
 ---
 
 ### 🌐 Multi-AZ High Availability Web App
 > **Self-healing infrastructure demo**
 
-Deployed a fault-tolerant web app across 2 AZs behind ALB + ASG. Terminated instances mid-traffic to demonstrate automatic recovery — the app never went down.
+Fault-tolerant web app across 2 AZs behind ALB + ASG. Instances terminated mid-traffic to verify zero-downtime auto-recovery.
 
 **Stack:** EC2 • ALB • Auto Scaling Group • Multi-AZ • CloudWatch
 
@@ -86,76 +100,107 @@ Deployed a fault-tolerant web app across 2 AZs behind ALB + ASG. Terminated inst
 ### 🏆 Real-Time Multi-Source Data Pipeline — Hackathon
 > **End-to-end automated pipeline integrating 3 live financial APIs**
 
-Built an end-to-end automated pipeline integrating 3 live financial APIs into a unified data warehouse.
-
 ```
 CoinMarketCap ──┐
 OpenExchangeRates ──┤──► S3 → SNS → SQS → Lambda → Glue (PySpark) → Snowflake
 Yahoo Finance ──┘
-                                    EventBridge (Scheduled Triggers)
+                          EventBridge (Scheduled Triggers)
 ```
 
-**Stack:** Python • AWS Lambda • S3 • SNS • SQS • AWS Glue • PySpark • Snowflake • EventBridge • SQL Server
+**Stack:** Python • Lambda • S3 • SNS • SQS • Glue • PySpark • Snowflake • EventBridge
 
 ---
 
 ### 📈 S&P 500 Real-Time Intraday Pipeline
 > **Dockerized Airflow orchestration on EC2**
 
-Fully automated ETL pipeline pulling live S&P 500 market data, transforming with pandas, and loading to both S3 and Snowflake.
+Fully automated ETL pulling live S&P 500 market data, transforming with pandas, and loading to S3 and Snowflake.
 
 ```
 yfinance API → EC2 (Docker + Airflow) → Transform → S3 + Snowflake
 ```
 
-**Stack:** Python • Apache Airflow • Docker • AWS EC2 • S3 • Snowflake • pandas
+**Stack:** Python • Apache Airflow • Docker • EC2 • S3 • Snowflake • pandas
 
 ---
 
 ### ⚡ Serverless Weather Forecasting Pipeline
 > **EventBridge → Lambda → Snowpipe → Looker Studio**
 
-Daily automated pipeline fetching Open-Meteo weather data, storing to S3, auto-ingesting via Snowpipe, and visualizing on Looker Studio.
+Daily pipeline fetching Open-Meteo weather data, storing to S3, auto-ingesting via Snowpipe, and visualizing on Looker Studio.
 
-**Stack:** Python • AWS Lambda • EventBridge • S3 • SQS • Snowflake Snowpipe • Looker Studio
+**Stack:** Lambda • EventBridge • S3 • SQS • Snowflake Snowpipe • Looker Studio
 
 ---
 
 ### 📊 AWS Stock Data Pipeline
 > **Serverless event-driven ETL**
 
-Fully serverless pipeline generating and processing synthetic OHLCV stock data for 50 symbols using a complete event-driven architecture.
+Fully serverless pipeline generating and processing synthetic OHLCV stock data for 50 symbols.
 
 ```
 EventBridge → Lambda → S3 → SQS → Lambda → DynamoDB
 ```
 
-**Stack:** Python • Lambda • EventBridge • S3 • SQS • DynamoDB
+**Stack:** Lambda • EventBridge • S3 • SQS • DynamoDB
 
 ---
-
 
 ### 🏗️ Lake-to-Warehouse ETL Pipeline
 > **S3 → Glue → Athena → Redshift**
 
-Enterprise-style data pipeline with schema discovery via Glue Crawler, serverless querying with Athena, and warehousing in Redshift.
+Enterprise-style pipeline with Glue Crawler schema discovery, serverless querying with Athena, and warehousing in Redshift.
 
-**Stack:** AWS S3 • AWS Glue • Athena • Redshift • Python • PySpark
+**Stack:** S3 • Glue • Athena • Redshift • Python • PySpark
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-I'm actively looking for **cloud internships** in Karachi.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedshaaharham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedshaaharham&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
 
-If you're working on cloud infrastructure, data pipelines, or security — let's talk.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedshaaharham&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/syedshaharham)
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syedshaaharham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedshaaharham&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed_Shah_Arham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedshaharham)
+[![GitHub](https://img.shields.io/badge/GitHub-syedshaaharham-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedshaaharham)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-FF9900?style=for-the-badge&logo=vercel&logoColor=white)](https://syedshaharham.vercel.app/)
+
+</div>
 
 ---
 
 <div align="center">
 
-*"There's a difference between using AWS and understanding AWS. I'm closing that gap."*
+### 💡 "There's a difference between using AWS and understanding AWS. I'm closing that gap."
+
+![Profile Views](https://komarev.com/ghpvc/?username=syedshaaharham&color=2E9EF7&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/syedshaaharham?label=Follow&style=social)](https://github.com/syedshaaharham)
 
 </div>
