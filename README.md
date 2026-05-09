@@ -27,11 +27,11 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,snowflake&theme=dark)](https://skillicons.dev)
 
 ### **CI/CD & DevOps**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=git,jenkins,github&theme=dark)](https://skillicons.dev)
+
+
+do we have logos of git jenkins and github logo?
 
 ### **Languages & Tools**
 <p align="left">
