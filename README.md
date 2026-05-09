@@ -36,20 +36,39 @@ I'm an aspiring **Cloud Engineer** from 🇵🇰 Karachi, Pakistan with hands-on
 [![My Skills](https://skillicons.dev/icons?i=python,linux,mysql,git&theme=dark)](https://skillicons.dev)
 
 ### **AWS Services**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Storage/SimpleStorageService.png" width="40" height="40" alt="S3"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Compute/Lambda.png" width="40" height="40" alt="Lambda"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Compute/EC2.png" width="40" height="40" alt="EC2"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" width="40" height="40" alt="IAM"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" width="40" height="40" alt="VPC"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ApplicationIntegration/SimpleQueueService.png" width="40" height="40" alt="SQS"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ApplicationIntegration/SimpleNotificationService.png" width="40" height="40" alt="SNS"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ApplicationIntegration/EventBridge.png" width="40" height="40" alt="EventBridge"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Database/DynamoDB.png" width="40" height="40" alt="DynamoDB"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ManagementGovernance/CloudWatch.png" width="40" height="40" alt="CloudWatch"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ManagementGovernance/CloudFormation.png" width="40" height="40" alt="CloudFormation"/>
-  <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Containers/ElasticContainerService.png" width="40" height="40" alt="ECS"/>
-</p>
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Storage/SimpleStorageService.png" width="40"/></td>
+    <td>Amazon S3</td>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Compute/Lambda.png" width="40"/></td>
+    <td>AWS Lambda</td>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Compute/EC2.png" width="40"/></td>
+    <td>Amazon EC2</td>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" width="40"/></td>
+    <td>IAM</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" width="40"/></td>
+    <td>VPC</td>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ApplicationIntegration/SimpleQueueService.png" width="40"/></td>
+    <td>SQS</td>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ApplicationIntegration/SimpleNotificationService.png" width="40"/></td>
+    <td>SNS</td>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ApplicationIntegration/EventBridge.png" width="40"/></td>
+    <td>EventBridge</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Database/DynamoDB.png" width="40"/></td>
+    <td>DynamoDB</td>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ManagementGovernance/CloudWatch.png" width="40"/></td>
+    <td>CloudWatch</td>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/ManagementGovernance/CloudFormation.png" width="40"/></td>
+    <td>CloudFormation</td>
+    <td><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/Containers/ElasticContainerService.png" width="40"/></td>
+    <td>ECS</td>
+  </tr>
+</table>
 
 ---
 
